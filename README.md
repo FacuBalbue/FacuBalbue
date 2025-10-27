@@ -14,7 +14,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a [href="www.linkedin.com/in/FacuBalbue"](https://www.linkedin.com/in/balbuenafacundo/) target="blank"><img align="center" src="https://img.shields.io/badge/Facundo Balbuena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="facundo.balbuena31@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/facundo.balbuena31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/FacuBalbue" target="blank"><img align="center" src="https://img.shields.io/badge/FacuBalbue-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/balbuenafacundo/" target="blank"><img align="center" src="https://img.shields.io/badge/Facundo Balbuena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="facundo.balbuena31@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/facundo.balbuena31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/FacuBalbue" target="blank"><img align="center" src="https://img.shields.io/badge/FacuBalbue-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
