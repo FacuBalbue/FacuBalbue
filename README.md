@@ -8,7 +8,8 @@
 
 -  I’m finishing my studies to become an IT Technician.
 -  I’m currently working on many small projects.
--  Learning cybersecurity and specializing in IT support
+-  Learning cybersecurity and specializing in IT support.
+-  Front-End Developer with experience in HTML, CSS, JavaScript, and React.
   
 <hr>
 <Br>
