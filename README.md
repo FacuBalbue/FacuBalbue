@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/FacuBalbue">Facundo Balbuena<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! 😎</h1>
+<h1>About Me!</h1>
 
 -  I’m finishing my studies to become an IT Technician.
 -  I’m currently working on many small projects.
