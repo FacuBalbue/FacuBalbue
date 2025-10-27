@@ -6,8 +6,9 @@
 <Br>
 <h1>About Me! 😎</h1>
 
+-  I’m finishing my studies to become an IT Technician.
 -  I’m currently working on many small projects.
--  I’m currently learning cyber security
+-  Learning cybersecurity and specializing in IT support
   
 <hr>
 <Br>
